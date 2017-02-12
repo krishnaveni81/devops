@@ -1,1 +1,3 @@
 Added NFC Payment
+/* By kanadsamy from Denmark */
+Added samsung pay
